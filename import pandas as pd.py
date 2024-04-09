@@ -31,3 +31,4 @@ y_pred = model.predict(X_test)
 
 # Print the predictions
 print("Predictions:", y_pred)
+Print("go sox")
